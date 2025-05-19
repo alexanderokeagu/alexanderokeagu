@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izzyokeagu
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 👀 I’m a QA Engineer
+- 🌱 I work with tools such as cypress, webdriverio, and playwright
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me pezokeagu@gmail.com
 
